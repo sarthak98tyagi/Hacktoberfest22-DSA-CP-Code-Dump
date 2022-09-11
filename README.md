@@ -19,6 +19,7 @@ git commit -m"<Name of your Algorithm>"
 git push
 ```
 - Come back to Github and Open a Pull Request
+- While making Pull Request maintain the template provided to you
 - We will check if its a valid pull request and merge it
 
 ## To get a detailed explanation of the above steps refer to the following videos
